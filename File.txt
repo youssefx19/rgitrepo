@@ -1,1 +1,2 @@
 First lin in file.txt
+Second line in file.txt
